@@ -25,6 +25,7 @@ header div a {
     color: white;
     font-size: 18px;
     font-weight: bold;
+    margin: 0 30px;
 }
 
 header div a:hover {
@@ -32,6 +33,6 @@ header div a:hover {
     transition: color 500ms;
 }
 
-header div a+a {
+/* header div a+a {
     margin-left: 30px;
-}
+} */
